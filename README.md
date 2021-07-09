@@ -11,3 +11,5 @@ Sanjan Adhikari, who is a high-skilled web developer with extensive experience i
 - 💪 Capable of working within specific timelines and deadlines
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanjanadhikari1)
+
+![languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=franky47&langs_count=10&layout=compact)
