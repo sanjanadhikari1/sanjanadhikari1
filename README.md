@@ -1,14 +1,15 @@
-<h1 align="center">⚡️ Sanjan Adhikari, experienced JavaScript Developer ⚡️</h1>
+<h1 align="center">⚡️ Sanjan Adhikari, Software Engineer ⚡️</h1>
 
 ---
 
-Sanjan Adhikari, who is a high-skilled web developer with extensive experience in the field, is looking for an opportunity to use his knowledge to be an asset to a company in need. (Top Rated Plus Freelancer in upwork)
+A highly skilled software engineer with extensive experience in the technology field - Top Rated Upwork Contractor with 100% JSS
 
-- 💪 Advanced mathematical and science skills
-- 💪 Experience in Web programming
-- 💪 Project Management and System analyzing
-- 💪 In-depth understanding of many web development skills
-- 💪 Capable of working within specific timelines and deadlines
+- 💪 Advanced mathematical and computer science skills
+- 💪 Experience in Software Development (Web 2 & Web 3)
+- 💪 Project Management and System Analysis
+- 💪 Blockchain Enthusiast
+- 💪 In-depth understanding of numerous web development skills
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanjanadhikari1)
 
