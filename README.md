@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Sanjan Adhikari, Software Engineer ⚡️</h1>
+<h1 align="center">⚡️ Sanjan Adhikari, Senior Front-end Web3 engineer ⚡️</h1>
 
 ---
 
