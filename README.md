@@ -1,14 +1,14 @@
-<h1 align="center">⚡️ Sanjan Adhikari, Senior Front-end Web3 engineer ⚡️</h1>
+<h1 align="center">⚡️ Sanjan Adhikari, Senior Engineer & Product Manager ⚡️</h1>
 
 ---
 
 A highly skilled software engineer with extensive experience in the technology field - Top Rated Upwork Contractor with 100% JSS
 
 - 💪 Advanced mathematical and computer science skills
-- 💪 Experience in Software Development (Web 2 & Web 3)
-- 💪 Project Management and System Analysis
+- 💪 Experience in Software Development & Product Management (Web 2 & Web 3)
+- 💪 Product Management and System Analysis
 - 💪 Blockchain Enthusiast
-- 💪 In-depth understanding of numerous web development skills
+- 💪 In-depth understanding of various tech stacks
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanjanadhikari1)
