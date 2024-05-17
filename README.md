@@ -10,7 +10,4 @@ A highly skilled software engineer with extensive experience in the technology f
 - 💪 Blockchain Enthusiast
 - 💪 In-depth understanding of various tech stacks
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=sanjanadhikari1)
-
 ![languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sanjanadhikari1&langs_count=10&layout=compact)
