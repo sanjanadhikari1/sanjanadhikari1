@@ -1,8 +1,8 @@
-<h1 align="center">⚡️ Sanjan Adhikari, Senior Engineer & Product Manager ⚡️</h1>
+<h1 align="center">⚡️ Sanjan Adhikari, Software Engineer & Product Manager ⚡️</h1>
 
 ---
 
-A highly skilled software engineer with extensive experience in the technology field - Top Rated Upwork Contractor with 100% JSS
+A highly skilled software engineer with extensive experience in the software field - Top Rated Upwork Contractor with 100% JSS
 
 - 💪 Advanced mathematical and computer science skills
 - 💪 Experience in Software Development & Product Management (Web 2 & Web 3)
